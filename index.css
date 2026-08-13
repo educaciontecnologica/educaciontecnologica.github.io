@@ -1,4 +1,18 @@
 
 body {
    background-color: #926d74;
+   color: white;
 }
+
+header {
+   background-color: #699690;
+}
+
+img {
+   display: block;
+   margin: 25px auto;
+}
+
+
+
+
