@@ -5,8 +5,14 @@ body {
    text-align: center;
 }
 
+h1 {
+   padding: 1cm;
+   margin:0;
+}
+
 header {
    background-color: #699690;
+   height: 3cm;
 }
 
 img {
